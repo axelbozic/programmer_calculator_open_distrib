@@ -13,5 +13,3 @@ After extracting the file, run the open_distrib.exe application.
 Usually, before the first run, your computer might show you a warning with an option that says "don't run", don't click that.
 Click on "see more" and then you'll see "run anyway".
 Click on "run anyway" and you're set.
-
-Most importantly, there is no virus in this program.
