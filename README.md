@@ -1,5 +1,5 @@
 This is a hexadeciaml-binary-decimal converter (in developmental stage).
-This calculator is targeted towards aspiring programmer (I'm a newbie as well).
+This calculator is targeted towards aspiring programmers (I'm a newbie as well).
 If you don't understand what binary or hexadecimal is, feel free to mess around.
 This calculator can take values as long as the Microsoft Programmmer Calculator.
 Going above 64 digits in binary, 15 digits in hexadecimal, and 9,223,372,036,854,775,807 in decimal will send the program in error state.
