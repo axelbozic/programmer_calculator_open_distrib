@@ -1,5 +1,4 @@
-This is a hexadeciaml-binary-decimal converter.
-This is still in developmental stage.
+This is a hexadeciaml-binary-decimal converter (in developmental stage).
 This calculator is targeted towards aspiring programmer (I'm a newbie as well).
 If you don't understand what binary or hexadecimal is, feel free to mess around.
 This calculator can take values as long as the Microsoft Programmmer Calculator.
