@@ -7,7 +7,8 @@ This is because our computers can only process up to 64 bits.
 There will be future updates that will focus more on restricting the user input over a certain value.
 
 
-When you download the zip file, you must extract it to your desired location.
+When you download the zip file, you must extract it to your desired location. 
+Running the .exe file without extraction may cause the app to not run.
 If you're using chrome, the browser might show you a warning when downloading but there's nothing to worry about.
 After extracting the file, run the open_distrib.exe application.
 Usually, before the first run, your computer might show you a warning with an option that says "don't run", don't click that.
